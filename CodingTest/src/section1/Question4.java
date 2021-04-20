@@ -51,6 +51,5 @@ public class Question4 {
 			System.out.println(x);
 		}
 
-		System.out.print(T.solution(n, str));
 	}
 }
