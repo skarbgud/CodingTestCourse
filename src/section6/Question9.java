@@ -3,7 +3,7 @@ package section6;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Question8 {
+public class Question9 {
 	
 	public int count (int[] arr, int capacity) {
 		// cnt => DVD 장수
@@ -55,7 +55,7 @@ public class Question8 {
 	}
 
 	public static void main(String[] args) {
-		Question8 T = new Question8();
+		Question9 T = new Question9();
 		Scanner kb = new Scanner(System.in);
 
 		int n = kb.nextInt();
