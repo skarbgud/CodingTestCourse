@@ -2,7 +2,7 @@ package section7;
 
 import java.util.Scanner;
 
-public class Question10 {
+public class Question12 {
 	static int n, m, answer = 0;
 	static int[][] graph;
 	static int [] ch;
@@ -25,7 +25,7 @@ public class Question10 {
 	}
 	
 	public static void main(String[] args) {
-		Question10 T = new Question10();
+		Question12 T = new Question12();
 		Scanner kb = new Scanner(System.in);
 		n = kb.nextInt();
 		m = kb.nextInt();
